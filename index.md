@@ -11,6 +11,6 @@ Hi! I'm **Marina** and this is my GitHub Pages site.
 - Traveling
 
 ## Fun fact:
-I'm originally from Brazil and used to live in an island called [Florianópolis](https://www.blondevelvet-travel.com/post/a-guide-to-florianópolis-brazil) where known as the "Brazilian Hawaii" because its landscapes and amazing waves
+I’m originally from Brazil and used to live on an island called [Florianópolis](https://www.blondevelvet-travel.com/post/a-guide-to-florianópolis-brazil), which is known as the 'Brazilian Hawaii' for its stunning landscapes and amazing waves.
 
 Thanks for visiting! 😊
