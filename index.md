@@ -1,7 +1,7 @@
 # 👋 Welcome to My WebPage
 
 <!-- Image -->
-![A photo of me](profile.jpg)
+![A photo of me](https://github.com/marinabraun/marinabraun.github.io/blob/main/3471CFDD-21ED-4E15-A283-7D96A5E7ABAC_1_105_c.jpeg)
 
 Hi! I'm **Marina** and this is my GitHub Pages site.
 
